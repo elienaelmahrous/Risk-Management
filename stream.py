@@ -2,9 +2,11 @@ import os
 import pandas as pd
 import numpy as np
 from statistics import mean, stdev
+import scipy
 from scipy.stats import norm
 from datetime import datetime
 import urllib3
+import streamlit as st  # Importer Streamlit
 
 # Désactiver les avertissements urllib3
 urllib3.disable_warnings()
@@ -87,6 +89,18 @@ Total_VAR = df_Xopen['VAR'].sum()
 Total_ES = df_Xopen['CVAR'].sum()
 Total_xES = df_Xopen['XVAR'].sum()
 
-print(Total_VAR, Total_ES, Total_xES)
+# Affichage des résultats avec Streamlit
+st.title("Calcul des risques - VaR et CVaR")
+st.write("### Résultats de VaR, CVaR et XVaR pour chaque ligne de TradeLog")
 
+# Affichage des résultats sous forme de tableau
+st.dataframe(df_Xopen)
+
+# Affichage des totaux
+st.write(f"**Total VaR :** {Total_VAR:.2f}")
+st.write(f"**Total CVaR :** {Total_ES:.2f}")
+st.write(f"**Total XVaR :** {Total_xES:.2f}")
+
+# Sauvegarder le fichier CSV des résultats
 df_Xopen.to_csv('VAR_ES.csv', index=False)
+st.write("Les résultats ont été sauvegardés dans 'VAR_ES.csv'")
