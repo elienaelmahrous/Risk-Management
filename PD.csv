@@ -1,0 +1,294 @@
+﻿Market,Counterparty,Counterparty - mapping,type,Elli score,Rating,PD,PD_Str
+Eligible,Ardenne Métropole,Ardenne Métropole,Eligible,0.6,BB,0.1,0.35
+Eligible,Arvert,Arvert,Eligible,0.6,BB,0.1,0.35
+Eligible,CD de la Dordogne,CD de la Dordogne,Eligible,0.6,BB,0.1,0.35
+Eligible,Clairegoutte,Clairegoutte,Eligible,0.6,BB,0.1,0.35
+Eligible,Communauté d’Agglomération de Saint Louis ,Communauté d’Agglomération de Saint Louis ,Eligible,0.6,BB,0.1,0.35
+Eligible,Communauté d'Agglomération Sarreguemines Confluences (CASC),Communauté d'Agglomération Sarreguemines Confluences (CASC),Eligible,0.6,BB,0.1,0.35
+Eligible,"Communauté de communes Combrailles, Sioule & Morge","Communauté de communes Combrailles, Sioule & Morge",Eligible,0.6,BB,0.1,0.35
+Eligible,Commune d'agglomération de la Rochelle,Commune d'agglomération de la Rochelle,Eligible,0.6,BB,0.1,0.35
+Eligible,Commune de Bavans,Commune de Bavans,Eligible,0.6,BB,0.1,0.35
+Eligible,Communes de Dunières,Communes de Dunières,Eligible,0.6,BB,0.1,0.35
+Eligible,Commune de Castries,Commune de Castries,Eligible,0.6,BB,0.1,0.35
+Eligible,Emmaüs Habitat,Emmaüs Habitat,Eligible,0.6,BB,0.1,0.35
+Eligible,Eguzon-Argenton-Vallée de la Creuse,Eguzon-Argenton-Vallée de la Creuse,Eligible,0.6,BB,0.1,0.35
+Eligible,Éligibles,Éligibles,Eligible,0.6,BB,0.1,0.35
+Eligible,FREJUS,FREJUS,Eligible,0.6,BB,0.1,0.35
+Eligible,Habitats de Haute-Alsace OPH,Habitats de Haute-Alsace OPH,Eligible,0.6,BB,0.1,0.35
+Eligible,Mairie de la Châtre,Mairie de la Châtre,Eligible,0.6,BB,0.1,0.35
+Eligible,Meurthe-et-Moselle Habitat,Meurthe-et-Moselle Habitat,Eligible,0.6,BB,0.1,0.35
+Eligible,Neuillay Les bois,Neuillay Les bois,Eligible,0.6,BB,0.1,0.35
+Eligible,SAIMV,SAIMV,Eligible,0.6,BB,0.1,0.35
+Eligible,SIEM 51,SIEM 51,Eligible,0.6,BB,0.1,0.35
+Eligible,Useda,Useda,Eligible,0.6,BB,0.1,0.35
+Eligible,Val Du loing Habitat,Val Du loing Habitat,Eligible,0.6,BB,0.1,0.35
+Eligible,Villedieu les Poeles Rouffigny,Villedieu les Poeles Rouffigny,Eligible,0.6,BB,0.1,0.35
+Eligible,Villemomble,Villemomble,Eligible,0.6,BB,0.1,0.35
+Primary,ABM RENOVATION,ABM RENOVATION,Installeur,0.4,CCC,0.45,0.7
+Primary,ABD INTERIOR S PARIS,ABD INTERIOR S PARIS,Installeur,0.6,BB,0.1,0.35
+Primary,Aclimate 54,Aclimate 54,Installeur,0.4,CCC,0.45,0.7
+Primary,Aerispro,Aerispro,Installeur,0.2,C,0.75,1
+Primary,AlphaCEE,AlphaCEE,Installeur,0.2,C,0.75,1
+Primary,ANESCA,ANESCA,Installeur,0.4,CCC,0.45,0.7
+Primary,Arès Energy,Arès Energy,Installeur,0.6,BB,0.1,0.35
+Primary,Art Facade 51,ART FACADE 51,Installeur,0.5,B,0.25,0.5
+Primary,ART FACADE 51,ART FACADE 51,Installeur,0.5,B,0.25,0.5
+Primary,Artisan Photovoltaique de France,Artisan Photovoltaique de France,Installeur,0.2,C,0.75,1
+Primary,Artisans de France,Artisans de France,Installeur,0.5,B,0.25,0.5
+Primary,Artisans des nouvelles Energies,Artisans des nouvelles Energies,Installeur,0.5,B,0.25,0.5
+Primary,ArtisanServiceSoufflageIsolation,ArtisanServiceSoufflageIsolation,Installeur,0.2,C,0.75,1
+Primary,ATEX RENOV,ATEX RENOV,Installeur,0.2,C,0.75,1
+Primary,Atilla,Atilla,Installeur,0.2,C,0.75,1
+Primary,Axdis (production Lagelouze),Axdis,mandataire,0.6,BB,0.1,0.35
+Primary,Axiclim,Axiclim,Installeur,0.6,BB,0.1,0.35
+Primary,BATI ENERGIE,BATI ENERGIE,Installeur,0.5,B,0.25,0.5
+Primary,Bati Renov,Bati Renov,Installeur,0.5,B,0.25,0.5
+Primary,BAT FULL (Elecplugg),BAT FULL (Elecplugg),Installeur,0.2,C,0.75,1
+Primary,BSD GROUP,BSD GROUP,Installeur,0.6,BB,0.1,0.35
+Primary,Carbone Group,Carbone Group,Installeur,0.7,BBB,0.05,0.3
+Primary,Carrier IN,Carrier IN,Installeur,0.4,CCC,0.45,0.7
+Primary,CCM,CCM,Installeur,0.5,B,0.25,0.5
+Primary,CDA Réseaux,CDA Réseaux,Installeur,0.2,C,0.75,1
+Primary,CEE Lab (Orpéa),Orpéa,Installeur,0.1,D,0.98,1
+Primary,Clean Planet,Clean Planet,Installeur,0.2,C,0.75,1
+Primary,Climat de France Energie,Climat de France Energie,Installeur,0.2,C,0.75,1
+Primary,CLS Habitat,CLS Habitat,Installeur,0.2,C,0.75,1
+Primary,CLIM DENFERT - BOURQUIN,CLIM DENFERT - BOURQUIN,Installeur,0.2,C,0.75,1
+Primary,Concept Energy,Concept Energy,Installeur,0.5,B,0.25,0.5
+Primary,COUPEL ELECTRICITE,COUPEL ELECTRICITE,Installeur,0.4,CCC,0.45,0.7
+Primary,Credit Note 005,Credit Note 005,Installeur,0.2,C,0.75,1
+Primary,Demathieu Bard,Demathieu Bard,Installeur,0.2,C,0.75,1
+Primary,Demathieu Bard (vente secondaire),Demathieu Bard,Installeur,0.2,C,0.75,1
+Primary,Diffusion 770,Diffusion 770,Installeur,0.4,CCC,0.45,0.7
+Primary,DIGISHOP (GREFFEN),DIGISHOP,Installeur,0.2,C,0.75,1
+Primary,DJM CORP,DJM CORP,Installeur,0.4,CCC,0.45,0.7
+Primary,DISA SERVICIOS ENERGÉTICOS S.L.U,DISA SERVICIOS ENERGÉTICOS S.L.U,Installeur,0.4,CCC,0.45,0.7
+Primary,Duval Isolation,Duval Isolation,Installeur,0.3,CC,0.6,0.85
+Primary,EABATELEC,EABATELEC,Installeur,0.3,CC,0.6,0.85
+Primary,Easy Energy,Easy Energy,Installeur,0.5,B,0.25,0.5
+Primary,Eco Environnement,Eco Environnement,mandataire,0.5,B,0.25,0.5
+Primary,ECO PACK CONSULTING (ELECPLUGG) ,ECO PACK CONSULTING (ELECPLUGG) ,Installeur,0.2,C,0.75,1
+Primary,Eco Transition Service,Eco Transition Service,Installeur,0.4,CCC,0.45,0.7
+Primary,Eco Univers,Eco Univers,Installeur,0.4,CCC,0.45,0.7
+Primary,Eco-Consortium,Eco-Consortium,Installeur,0.2,C,0.75,1
+Primary,EDISON NEXT Spain,EDISON NEXT Spain,Installeur,0.2,C,0.75,1
+Primary,ENERGIE ECO PRIME,ENERGIE ECO PRIME,Installeur,0.2,C,0.75,1
+Primary,ENERGIEDOM,ENERGIEDOM,Installeur,0.2,C,0.75,1
+Primary,Efibat,Efibat,Installeur,0.2,C,0.75,1
+Primary,EGIR,EGIR,Installeur,0.5,B,0.25,0.5
+Primary,ELECPLUGG,ELECPLUGG,Installeur,0.4,CCC,0.45,0.7
+Primary,Elysio,Elysio,Installeur,0.2,C,0.75,1
+Primary,Energie conseil Lorber,Energie conseil Lorber,Installeur,0.2,C,0.75,1
+Primary,Energie de l'Est,Energie de l'Est,Installeur,0.2,C,0.75,1
+Primary,Energiz'Air,Energiz'Air,Installeur,0.5,B,0.25,0.5
+Primary,Energy Lease,Energy Lease,mandataire,0.2,C,0.75,1
+Primary,ENERGY SOLUTIONS,ENERGY SOLUTIONS,Installeur,0.2,C,0.75,1
+Primary,Entreprise Drain,Entreprise Drain,Installeur,0.4,CCC,0.45,0.7
+Primary,Eurysas,Eurysas,Installeur,0.4,CCC,0.45,0.7
+Primary,FAVL Carbone,FAVL Carbone,Installeur,0.4,CCC,0.45,0.7
+Primary,FDE80,FDE80,Installeur,0.5,B,0.25,0.5
+Primary,Flamespeed,Flamespeed,Installeur,0.2,C,0.75,1
+Primary,Fonciere Vesta,Fonciere Vesta,Installeur,0.2,C,0.75,1
+Primary,France Eco Habitat,France Eco Habitat,Installeur,0.4,CCC,0.45,0.7
+Primary,France Rénovation Sécurité,France Rénovation Sécurité,Installeur,0.4,CCC,0.45,0.7
+Primary,FULL CONNECTION (CONNECTICLEAN),FULL CONNECTION,Installeur,0.4,CCC,0.45,0.7
+Primary,connecticlean,FULL CONNECTION,Installeur,0.4,CCC,0.45,0.7
+Primary,full connection (connecticlean),FULL CONNECTION,Installeur,0.4,CCC,0.45,0.7
+Primary,CONNECTICLEAN,FULL CONNECTION,Installeur,0.4,CCC,0.45,0.7
+Primary,GCC,GCC,Installeur,0.2,C,0.75,1
+Primary,horizon blue,horizon blue,Installeur,0.2,C,0.75,1
+Primary,HORIZON BLUE,horizon blue,Installeur,0.2,C,0.75,1
+Primary,Global Habitat Solution,Global Habitat Solution,Installeur,0.4,CCC,0.45,0.7
+Primary,label energie,LABEL ENERGIE,Installeur,0.2,C,0.75,1
+Primary,LABEL ENERGIE (VALOREN - AXDIS),LABEL ENERGIE,Installeur,0.2,C,0.75,1
+Primary,LABEL ENERGIE,LABEL ENERGIE,Installeur,0.2,C,0.75,1
+Primary,Greenta,Greenta,Installeur,0.4,CCC,0.45,0.7
+Primary,GREEN SKS France,GREEN SKS France,Installeur,0.2,C,0.75,1
+Primary,GROUPE DIRECT ARTISANS,GROUPE DIRECT ARTISANS,Installeur,0.2,C,0.75,1
+Primary,Groupe Energy Solutions,Groupe Energy Solutions,mandataire,0.2,C,0.75,1
+Primary,habitat eco developpement,habitat eco developpement,Installeur,0.5,B,0.25,0.5
+Primary,HABITAT ECO DEVELOPPEMENT,habitat eco developpement,Installeur,0.5,B,0.25,0.5
+Primary,Habitat Energie,Habitat Energie,Installeur,0.4,CCC,0.45,0.7
+Primary,HOMI ENERGIE,HOMI ENERGIE,Installeur,0.3,CC,0.6,0.85
+Primary,HT CONNECT,HT CONNECT,Installeur,0.3,CC,0.6,0.85
+Primary,I.R.G.T,I.R.G.T,Installeur,0.3,CC,0.6,0.85
+Primary,ICE,ICE,Installeur,0.2,C,0.75,1
+Primary,ID ENERGIE,ID ENERGIE,Installeur,0.2,C,0.75,1
+Primary,IDF Fermeture (vente secondaire),IDF Fermeture,Installeur,0.2,C,0.75,1
+Primary,IDF FERMETURES,IDF Fermeture,Installeur,0.2,C,0.75,1
+Primary,Initiativ'Energie,Initiativ'Energie,Installeur,0.2,C,0.75,1
+Primary,INITIATIV'ENERGIE,Initiativ'Energie,Installeur,0.2,C,0.75,1
+Primary,Installors,Installors,Installeur,0.3,CC,0.6,0.85
+Primary,Installors - Retiré du dépôt,Installors,Installeur,0.3,CC,0.6,0.85
+Primary,Installors (en attente d'affectation),Installors (en attente d'affectation),Installeur,0.2,C,0.75,1
+Primary,Installors (open),Installors,Installeur,0.3,CC,0.6,0.85
+Primary,Installors (YE Inventory),Installors,Installeur,0.3,CC,0.6,0.85
+Primary,Installors (production Lagelouze),Installors,Installeur,0.3,CC,0.6,0.85
+Primary,IS Eco,IS Eco,Installeur,0.3,CC,0.6,0.85
+Primary,Isobay,Isobay,Installeur,0.8,A,0.04,0.29
+Primary,ISO-BTP81,ISO-BTP81,Installeur,0.3,CC,0.6,0.85
+Primary,Isol59,Isol59,Installeur,0.2,C,0.75,1
+Primary,Isolano,Isolano,Installeur,0.6,BB,0.1,0.35
+Primary,Isolanord,Isolanord,Installeur,0.2,C,0.75,1
+Primary,Isologement,Isologement,Installeur,0.2,C,0.75,1
+Primary,Isotek,Isotek,Installeur,0.2,C,0.75,1
+Primary,Isotechmo,Isotechmo,Installeur,0.5,B,0.25,0.5
+Primary,IZYRENOV,IZYRENOV,Installeur,0.2,C,0.75,1
+Primary,JMTENERGIEEISOLATIONS,JMTENERGIEEISOLATIONS,Installeur,0.2,C,0.75,1
+Primary,KAP CONFORT,KAP CONFORT,Installeur,0.2,C,0.75,1
+Primary,Korus,Korus,Installeur,0.2,C,0.75,1
+Primary,La Plateforme des Ouvriers,La Plateforme des Ouvriers,Installeur,0.2,C,0.75,1
+Primary,LA RENO GLOBALE,LA RENO GLOBALE,Installeur,0.3,CC,0.6,0.85
+Primary,Le Bel Ouvrage,Le Bel Ouvrage,Installeur,0.2,C,0.75,1
+Primary,LES TOITS DU VEXIN (FOURNIER),LES TOITS DU VEXIN (FOURNIER),Installeur,0.6,BB,0.1,0.35
+Primary,Levbat,Levbat,Installeur,0.3,CC,0.6,0.85
+Primary,Lotus Habitat,Lotus Habitat,Installeur,0.2,C,0.75,1
+Primary,LOTUS HABITAT,Lotus Habitat,Installeur,0.2,C,0.75,1
+Primary,M3 BAT,M3 BAT,Installeur,0.3,CC,0.6,0.85
+Primary,M.E.M,M.E.M,Installeur,0.2,C,0.75,1
+Primary,Maisons eco,Maisons eco,Installeur,0.4,CCC,0.45,0.7
+Primary,MAAS,MAAS,Installeur,0.3,CC,0.6,0.85
+Primary,MAHAMADOU DIAGOURAGA,MAHAMADOU DIAGOURAGA,Installeur,0.2,C,0.75,1
+Primary,Maksyma,Maksyma,mandataire,0.5,B,0.25,0.5
+Primary,MR CLIMATISATION CHAUFFAGE,MR CLIMATISATION CHAUFFAGE,Installeur,0.3,CC,0.6,0.85
+Primary,mz batiment (elecplugg),mz batiment (elecplugg),Installeur,0.2,C,0.75,1
+Primary,MZ Batiment (ElecPlugg),mz batiment (elecplugg),Installeur,0.2,C,0.75,1
+Primary,BAT PPS,BAT PPS,Installeur,0.2,C,0.75,1
+Primary,TECHNATURE,TECHNATURE,Installeur,0.2,C,0.75,1
+Primary,TI LAB ARQUITECTURA,TI LAB ARQUITECTURA,Installeur,0.4,CCC,0.45,0.7
+Primary,ALSACE GEO SYSTEMES,ALSACE GEO SYSTEMES,Installeur,0.2,C,0.75,1
+Primary,Green Power Solutions,Green Power Solutions,Installeur,0.2,C,0.75,1
+Primary,ACD ENERGIE (direct),ACD ENERGIE (direct),Installeur,0.4,CCC,0.45,0.7
+Primary,NEGOSOLS,NEGOSOLS,Installeur,0.4,CCC,0.45,0.7
+Primary,Neo Consult (Habitat Energie),Neo Consult (Habitat Energie),Installeur,0.2,C,0.75,1
+Primary,Nov'Isol,Nov'Isol,Installeur,0.4,CCC,0.45,0.7
+Primary,OTC Flow (fee),OTC Flow,mandataire,0.5,B,0.25,0.5
+Primary,OTC Flow France,OTC Flow,mandataire,0.5,B,0.25,0.5
+Primary,Oussansam Yacine,Oussansam Yacine,Installeur,0.2,C,0.75,1
+Primary,Pascal Baumgartner,Pascal Baumgartner,Installeur,0.2,C,0.75,1
+Primary,Plac Elec,Plac Elec,Installeur,0.3,CC,0.6,0.85
+Primary,Proclimatech,Proclimatech,Installeur,0.4,CCC,0.45,0.7
+Primary,Pure Habitat,Pure Habitat,Installeur,0.2,C,0.75,1
+Primary,QualiFrance Renov,QualiFrance Renov,Installeur,0.2,C,0.75,1
+Primary,RBM COUVERTURE,RBM COUVERTURE,Installeur,0.2,C,0.75,1
+Primary,RENECO,RENECO,Installeur,0.5,B,0.25,0.5
+Primary,Renovabat,Renovabat,Installeur,0.4,CCC,0.45,0.7
+Primary,Renovat Energy,Renovat Energy,Installeur,0.2,C,0.75,1
+Primary,RENOV'HABITAT & CO,RENOV'HABITAT & CO,Installeur,0.4,CCC,0.45,0.7
+Primary,RENOVECO,RENOVECO,Installeur,0.2,C,0.75,1
+Primary,REZA CONSEILS,REZA CONSEILS,Installeur,0.2,C,0.75,1
+Primary,RJ 55 ARTECH ,RJ 55 ARTECH ,Installeur,0.2,C,0.75,1
+Primary,SAS LILONE,SAS LILONE,Installeur,0.5,B,0.25,0.5
+Primary,S2E (Demathieu Bard),S2EE,Installeur,0.4,CCC,0.45,0.7
+Primary,S2E (fee OTC Flow),S2EE,Installeur,0.4,CCC,0.45,0.7
+Primary,S2EE,S2EE,Installeur,0.4,CCC,0.45,0.7
+Primary,S2EE (retiré du dépôt),S2EE,Installeur,0.4,CCC,0.45,0.7
+Primary,Safe Eco (vente secondaire),Safe Eco,Installeur,0.6,BB,0.1,0.35
+Primary,SAFE ECO,Safe Eco,Installeur,0.6,BB,0.1,0.35
+Primary,Danaci,Danaci,Installeur,0.2,C,0.75,1
+Primary,SAMI CALORIFUGE,SAMI CALORIFUGE,Installeur,0.2,C,0.75,1
+Primary,Sarl Home Energy,Sarl Home Energy,Installeur,0.2,C,0.75,1
+Primary,SARLMACONNERIEGENERALE ,SARLMACONNERIEGENERALE ,Installeur,0.2,C,0.75,1
+Primary,Sauron Energies,Sauron Energies,Installeur,0.2,C,0.75,1
+Primary,SAVE Energies,SAVE Energies,Obligé,0.5,B,0.25,0.5
+Primary,SCT CALORIFUGEAGE,SCT CALORIFUGEAGE,Installeur,0.3,CC,0.6,0.85
+Primary,SDEC ENERGIE,SDEC ENERGIE,Installeur,0.2,C,0.75,1
+Primary,Service plus,Service plus,Installeur,0.2,C,0.75,1
+Primary,Sieil 37,Sieil 37,Installeur,0.2,C,0.75,1
+Primary,SM5TE,SM5TE,Installeur,0.2,C,0.75,1
+Primary,Smarteo,Smarteo,Installeur,0.2,C,0.75,1
+Primary,SNS Group,SNS Group,Installeur,0.2,C,0.75,1
+Primary,Socotec,Socotec,Installeur,0.4,CCC,0.45,0.7
+Primary,SOLARIKS SASU,SOLARIKS SASU,Installeur,0.2,C,0.75,1
+Primary,SOLHY,SOLHY,Installeur,0.3,CC,0.6,0.85
+Primary,speed fibre 69,Speed Fibre 69,Installeur,0.2,C,0.75,1
+Primary,Speed Fibre 69,Speed Fibre 69,Installeur,0.2,C,0.75,1
+Primary,SR Solutions,SR Solutions,Installeur,0.3,CC,0.6,0.85
+Primary,Sygma environnement,Sygma environnement,Installeur,0.3,CC,0.6,0.85
+Primary,Techni Toit Isolation,Techni Toit Isolation,Installeur,0.3,CC,0.6,0.85
+Primary,TENSAI,TENSAI,Installeur,0.2,C,0.75,1
+Primary,Tramosa,Tramosa,Installeur,0.4,CCC,0.45,0.7
+Primary,Transports Labouriaux ,Transports Labouriaux ,Installeur,0.2,C,0.75,1
+Primary,TY Couverture,TY Couverture,Installeur,0.2,C,0.75,1
+Primary,Valoren,Valoren,mandataire,0.4,CCC,0.45,0.7
+Primary,VERIDIS ENERGIE,VERIDIS ENERGIE,Installeur,0.2,C,0.75,1
+Primary,Wilfurbish,Wilfurbish,Installeur,0.3,CC,0.6,0.85
+Primary,Ylia Energie,Ylia Energie,Installeur,0.3,CC,0.6,0.85
+Primary,Assur Energie,Assur Energie,Installeur,0.3,CC,0.6,0.85
+Primary,AGR-BAT,AGR-BAT,Installeur,0.2,C,0.75,1
+Primary,Calagogo,Calagogo,Installeur,0.6,BB,0.1,0.35
+Primary,Nai'A,Nai'A,Installeur,0.2,C,0.75,1
+Primary,La Mignane,La Mignane,Installeur,0.2,C,0.75,1
+Primary,Palais de la Mer,Palais de la Mer,Installeur,0.9,A,0.04,0.29
+Primary,PMA,PMA,Installeur,0.2,C,0.75,1
+Primary,THERMABEAD,THERMABEAD,Installeur,0.5,B,0.25,0.5
+Primary,ISO-VERDE,ISO-VERDE,Installeur,0.5,B,0.25,0.5
+Primary,THEO ENERGYE,THEO ENERGYE,Installeur,0.4,CCC,0.45,0.7
+Primary,Ecotherm Habitat,Ecotherm Habitat,Installeur,0.2,C,0.75,1
+Primary,INSPECTION ET RENOVATION DE L HABITAT,INSPECTION ET RENOVATION DE L HABITAT,Installeur,0.3,CC,0.6,0.85
+Primary,DISA SERVICIOS ENERGÉTICOS S.L.U,DISA SERVICIOS ENERGÉTICOS S.L.U,Installeur,0.5,B,0.25,0.5
+Primary,WILDERSBACH,WILDERSBACH,Deleg,0.4,CCC,0.45,0.7
+Secondary,Ace Energie,Ace Energie,Deleg,0.4,CCC,0.45,0.7
+Secondary,Armorine,Armorine,Obligé,0.5,B,0.25,0.5
+Secondary,Atax Consultants,Atax Consultants,Obligé,0.5,B,0.25,0.5
+Secondary,Auchan Energies,Auchan Energies,Obligé,0.2,C,0.75,1
+Secondary,Avia,Avia,Obligé,0.6,BB,0.1,0.35
+Secondary,Axpo,Axpo,Obligé,0.3,CC,0.6,0.85
+Secondary,Bolloré Energy,Bolloré Energy,Obligé,0.8,A,0.04,0.29
+Secondary,Cabinet Ares,Cabinet Ares,Deleg,0.6,BB,0.1,0.35
+Secondary,Drapo,Drapo,Deleg,0.7,BBB,0.05,0.3
+Secondary,EBS Energie,EBS Energie,Deleg,0.7,BBB,0.05,0.3
+Secondary,Economie d'Energie,Economie d'Energie,Deleg,0.5,B,0.25,0.5
+Secondary,Economie d'Energie (EDE),Economie d'Energie,Deleg,0.5,B,0.25,0.5
+Secondary,Economie d'Energie - EDE 7,Economie d'Energie,Deleg,0.5,B,0.25,0.5
+Secondary,Economie d'Energie - EDE 5,Economie d'Energie,Deleg,0.5,B,0.25,0.5
+Secondary,Economie d'Energie - EDE 8,Economie d'Energie,Deleg,0.5,B,0.25,0.5
+Secondary,EDS Energies,EDS Energies,Deleg,0.4,CCC,0.45,0.7
+Secondary,Ekwateur,Ekwateur,Obligé,0.5,B,0.25,0.5
+Secondary,ELMY,ELMY,Obligé,0.3,CC,0.6,0.85
+Secondary,Enens,Enens,Obligé,0.3,CC,0.6,0.85
+Secondary,ENI,ENI,Obligé,0.5,B,0.25,0.5
+Secondary,Enneo,Enneo,Deleg,0.3,CC,0.6,0.85
+Secondary,ENOVOS,ENOVOS,Obligé,0.4,CCC,0.45,0.7
+Secondary,EQINOV,EQINOV,Deleg,0.8,A,0.04,0.29
+Secondary,EQUINOV,EQINOV,Deleg,0.8,A,0.04,0.29
+Secondary,ESSO,ESSO,Obligé,0.9,AA,0.02,0.27
+Secondary,Gazel,Gazel,Obligé,0.7,BBB,0.05,0.3
+Secondary,Gazel (Lagelouze),Gazel,Obligé,0.7,BBB,0.05,0.3
+Secondary,Géo France Finance,Géo France Finance,mandataire,0.3,CC,0.6,0.85
+Secondary,GreenYellow,Green Yellow,Deleg,0.6,BB,0.1,0.35
+Secondary,Green Yellow,Green Yellow,Deleg,0.6,BB,0.1,0.35
+Secondary,Iberdrola,Iberdrola,Obligé,0.5,B,0.25,0.5
+Secondary,Idex Energies,Idex Energies,Obligé,0.3,CC,0.6,0.85
+Secondary,Isolidarité,Isolidarité,Obligé,0.4,CCC,0.45,0.7
+Secondary,LAC2E,LAC2E,Obligé,0.3,CC,0.6,0.85
+Secondary,Lagelouze,Lagelouze,Obligé,0.8,A,0.04,0.29
+Secondary,Lagelouze (to sell),Lagelouze,Obligé,0.8,A,0.04,0.29
+Secondary,Lagelouze 2,Lagelouze,Obligé,0.8,A,0.04,0.29
+Secondary,Lagelouze (vente secondaire),Lagelouze,Obligé,0.8,A,0.04,0.29
+Secondary,Loris ENR,Loris ENR,Deleg,0.8,A,0.04,0.29
+Secondary,Mint Energie,Mint Energie,Obligé,0.5,B,0.25,0.5
+Secondary,OAAN Consulting,OAAN Consulting,Deleg,0.6,BB,0.1,0.35
+Secondary,OCTOPUS ENERGY,OCTOPUS ENERGY,Obligé,0.4,CCC,0.45,0.7
+Secondary,OFEE,OFEE,Deleg,0.6,BB,0.1,0.35
+Secondary,OFEE-LEYTON,OFEE-LEYTON,Deleg,0.6,BB,0.1,0.35
+Secondary,Premium Energy,Premium Energy,Deleg,0.7,BBB,0.05,0.3
+Secondary,Premium Energy (EROVIA),Premium Energy,Deleg,0.7,BBB,0.05,0.3
+Secondary,Primagaz,Primagaz,Obligé,0.8,A,0.04,0.29
+Secondary,ROWENDI,ROWENDI,mandataire,0.4,CCC,0.45,0.7
+Secondary,SCA Pétrole et Dérivés,SCA Pétrole et Dérivés,Obligé,0.6,BB,0.1,0.35
+Secondary,Selia,Selia,Obligé,0.8,A,0.04,0.29
+Secondary,Siplec,Siplec,Obligé,0.6,BB,0.1,0.35
+Secondary,Sonergia,Sonergia,Obligé,0.4,CCC,0.45,0.7
+Secondary,STX SAS,STX SAS,mandataire,0.5,B,0.25,0.5
+Secondary,Teksial,Teksial,Deleg,0.4,CCC,0.45,0.7
+Secondary,Thevenin Ducrot (Avia),Avia,Obligé,0.6,BB,0.1,0.35
+Secondary,Thevenin Ducrot (Avia) - AVIA 3,Avia,Obligé,0.6,BB,0.1,0.35
+Secondary,Thevenin Ducrot (Avia) - AVIA 4,Avia,Obligé,0.6,BB,0.1,0.35
+Secondary,Total Energies,Total Energies,Obligé,0.9,AA,0.02,0.27
+Secondary,Total Marketing France,Total Marketing France,Obligé,0.9,AA,0.02,0.27
+Secondary,TotalEnergies,Total Energies,Obligé,0.9,AA,0.02,0.27
+Secondary,UEM,UEM,Obligé,0.8,A,0.04,0.29
+Secondary,Vivo,Vivo,Obligé,0.8,A,0.04,0.29
+Secondary,Ynergie,Ynergie,Obligé,0.8,A,0.04,0.29
+Secondary,ZELLER Energies ,ZELLER Energies,Obligé,0.4,CCC,0.45,0.7
